@@ -2,7 +2,7 @@
   <img alt="img Shadowkhan" src="./img/king_Shadowkhan.png" width="100">
 </p>
 
-<h1 align="center">Página de Galáxias do Projeto do Explorer - Rocketseat</h1>
+<h1 align="center">Explorer Project Galaxies Page - Rocketseat</h1>
 
 <br>
 
@@ -11,18 +11,18 @@
   <a href="https://jlisarte.github.io/projeto_pagina_galaxies/" target="_blank">https://jlisarte.github.io/projeto_pagina_galaxies/</a>
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-Esse projeto de página com listagem de galáxias é desenvolvido no nível 03 do Explorer.
+This page project with a list of galaxies is developed at level 03 of Explorer.
 
 ---
 
-Feito por Shadowkhan - Juliano Lisarte
+Made by Shadowkhan - Juliano Lisarte
